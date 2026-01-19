@@ -1,3 +1,9 @@
+body {
+    background-color: rgb(255, 194, 218);
+}
+
 h1{
-    color: red;
+    padding: 20px;
+    font-family: "Momo Trust Display", sans-serif;
+    color: rgb(13, 119, 75);
 }
