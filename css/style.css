@@ -1,9 +1,7 @@
-body {
-    background-color: rgb(255, 194, 218);
-}
 
-h1{
+
+h1,h2,h3,h4,n5,h6{
     padding: 20px;
     font-family: "Momo Trust Display", sans-serif;
-    color: rgb(13, 119, 75);
+    color: rgb(0, 0, 0);
 }
